@@ -32,7 +32,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.concurrent.TimeUnit;
 
-public class OTP extends AppCompatActivity {
+public class Login extends AppCompatActivity {
     private String verificationid;
     private FirebaseAuth mAuth;
     private ProgressBar progressBar;
